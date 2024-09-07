@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "140392249255",
+    "project_id": "userdatalist-f2206",
+    "storage_bucket": "userdatalist-f2206.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:140392249255:android:3a6cb700ebe4a38945a882",
+        "android_client_info": {
+          "package_name": "com.example.usercollection"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAZOh_V1YxsCRlfX4ERmt4BYTtfKOPBzDY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
